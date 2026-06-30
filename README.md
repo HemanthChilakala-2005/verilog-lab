@@ -2,8 +2,6 @@
 
 ## Starting GitHub Codespaces
 
-If you're using GitHub Codespaces to work on this lab, follow these steps:
-
 1. Open the repository on GitHub.
 2. Click the **Code** button.
 3. Select the **Codespaces** tab.
